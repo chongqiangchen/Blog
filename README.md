@@ -16,6 +16,13 @@
 
 4、[JavaScript深入系列笔记（4）](https://github.com/chongqiangchen/Blog/Notes/JavaScript深入系列笔记/JavaScript深入系列笔记（4）.md)
 
+## 日常
+
+> 注：记录生活一些琐碎，包括技术
+
+* 2019.2：
+  [2-25 记一次面试]()
+
 ## Eat-All系列
 
 > 注：此系列记录前端学习点滴。
