@@ -37,7 +37,7 @@
 
 ### Eat-JavaScript
  1、[正则学习积累](https://github.com/chongqiangchen/Blog/blob/master/Eat-All/Eat-JavaScript/%E6%AD%A3%E5%88%99%E5%AD%A6%E4%B9%A0%E7%A7%AF%E7%B4%AF.md)
-
+ 2、[基础算法积累](https://github.com/chongqiangchen/Blog/blob/master/Eat-All/Eat-JavaScript/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E7%A7%AF%E7%B4%AF.md)
 
 ### Eat-Mysql:
   1、[记一次Mysql操作（本地登录，批量修改字段内容）](https://github.com/chongqiangchen/Blog/blob/master/Eat-All/Eat-Mysql/%E8%AE%B0%E4%B8%80%E6%AC%A1Mysql%E6%93%8D%E4%BD%9C%EF%BC%88%E6%9C%AC%E5%9C%B0%E7%99%BB%E5%BD%95%EF%BC%8C%E6%89%B9%E9%87%8F%E4%BF%AE%E6%94%B9%E5%AD%97%E6%AE%B5%E5%86%85%E5%AE%B9%EF%BC%89.md)
